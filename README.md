@@ -1,6 +1,9 @@
 # TP_Integrador_P1
 Este es el repositorio que contiene codigo fuente para las pruebas de análisis de algoritmos, realizadas en función de las consignas del Trabajo Práctico Integrador n° 1 de la Materia Programación I, del primer cuatrimestre de la Tecnicatura a distancia de la UTN.
 
+Link del video explicativo:
+https://youtu.be/yTgSiFbqJ2w
+
 Instrucciones de uso:
 Al ejecutar el programa del archivo "Analisis_algoritmos.py" se mostrarán por consola los tiempos de ejecución de cada algoritmo de ordenamiento, en función de las listas creadas aleatoriamente con el método random() importada de la libreria standar random de Python 3.0.
 
