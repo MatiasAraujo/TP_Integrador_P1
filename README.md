@@ -4,6 +4,9 @@ Este es el repositorio que contiene codigo fuente para las pruebas de análisis 
 Link del video explicativo:
 https://youtu.be/yTgSiFbqJ2w
 
+Link del documento:
+https://docs.google.com/document/d/1efHGKObDJLg6F4JR5M03n6Mi6lvd241Q/edit
+
 Instrucciones de uso:
 Al ejecutar el programa del archivo "Analisis_algoritmos.py" se mostrarán por consola los tiempos de ejecución de cada algoritmo de ordenamiento, en función de las listas creadas aleatoriamente con el método random() importada de la libreria standar random de Python 3.0.
 
